@@ -15,7 +15,7 @@ The more unique and innovative your conversations, the more points you will get.
 After installing Aggregata, you can click `Reward` to obtain and copy your invite code. 
 
 - For each successful download through your invite code, you will receive 10% of the referred user's claimed points in perpetuity. 
-- The person using your code will also receive additional 10% points as they use and claim. 
+- The person using your code will also receive an additional 10% points as they use and claim. 
 This reward is ongoing and will not expire.
 
 **Referral history and bonus rewards will be updated to show in later releases.**
