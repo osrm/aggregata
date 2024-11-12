@@ -1,7 +1,7 @@
 # Importing HuggingFace Project
 Configuring a local proxy in the settings before using HuggingFace is recommended to avoid unstable speed for Mainland China.
 ## Function Description
-We support resumes from breakpoint. If your download fails due to network fluctuation or block sealed timeout, you can click  **Pause All** first and then click **Start All** to resume from where you left off.
+We support resuming from breakpoints.. If your download fails due to network fluctuation or block sealed timeout, you can click  **Pause All** first and then click **Start All** to resume from where you left off.
 
 ![image](https://github.com/Aggregata-xyz/aggregata/assets/158275971/e6873c45-fd48-4f3d-ae50-e5f5e224836a)
 
