@@ -50,7 +50,7 @@ Create a Private Database on Aggregata
 
 ![image](https://github.com/Aggregata-xyz/aggregata/assets/158275971/3e50d162-cc60-4c13-9791-2291e4bef274)
 
-When the status changes to **Replicating**, it indicates that the fold was created successfully and is replicating.
+When the status changes to **Replicating**, it indicates that the folder was created successfully and is replicating.
 
 ## Stop and continue to replicate
 To stop synchronization, click the checkbox to choose the folder.
